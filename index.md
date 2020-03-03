@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## springboot 开发实践
 
-You can use the [editor on GitHub](https://github.com/0yxchen0/yxchen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+开发的时候遇到的一些问题记录和源码
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 数据接入
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+139.224.8.158 阿里云服务器
 
 ```markdown
-Syntax highlighted code block
+记录些用到的技术和坑
 
-# Header 1
-## Header 2
-### Header 3
+# 技术1
+**Bold**
+_Italic_
+`Code` text
 
+## 技术2
 - Bulleted
 - List
-
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
-
+### 技术3
 [Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/0yxchen0/yxchen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
