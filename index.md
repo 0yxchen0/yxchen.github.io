@@ -10,18 +10,11 @@
 记录些用到的技术和坑
 
 # 技术1
-**Bold**
-_Italic_
-`Code` text
 
 ## 技术2
-- Bulleted
-- List
-1. Numbered
-2. List
+
 
 ### 技术3
-[Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
